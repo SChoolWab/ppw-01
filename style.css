@@ -1,0 +1,100 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.navbar-custom {
+  background: #333532;
+}
+.nav-link {
+  color: #3baaf9;
+  text-transform: uppercase;
+  padding: 2px 10px !important;
+}
+.active {
+  background: #3baaf9;
+  color: #333532;
+  border-radius: 5px;
+  padding: 0px inherit;
+  font-weight: bold;
+}
+.navbar-brand {
+  color: #fff;
+  font-weight: bold;
+}
+section {
+  padding: 50px 0;
+}
+section h1 {
+  color: #3baaf9;
+  text-transform: uppercase;
+}
+#hero {
+  background: #3baaf9;
+}
+#about {
+  background: #fff;
+}
+#services {
+  background: #333532;
+  color: #fff;
+}
+#contact {
+  background: #fff;
+}
+#footer {
+  background: #333532;
+  color: #fff;
+}
+footer {
+  background: #000;
+}
+.map > iframe {
+  border: 5px solid #3baaf9;
+}
+
+.service-card {
+  width: 100%;
+  background: #3baaf9;
+  color: #fff;
+  padding: 30px 15px;
+  border-radius: 5px;
+}
+.service-card h4 {
+  color: #333532;
+}
+.service-card button {
+  background: #333532;
+}
+.service-card .icon {
+  background: #000;
+  width: 70px;
+  height: 70px;
+  border-radius: 3px;
+  margin: auto;
+}
+
+.msg-btn {
+  background: #3baaf9;
+  color: #333532;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.f-social {
+  list-style: none;
+}
+.f-social a {
+  text-decoration: none;
+  color: #3baaf9;
+}
+a.f-cradit {
+  color: #fff;
+  font-weight: bold;
+  text-decoration: none;
+}
+.user {
+  width: 100%;
+  border: 5px solid #3baaf9;
+}
